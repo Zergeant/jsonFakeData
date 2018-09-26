@@ -2,7 +2,7 @@
 	"for160": [{
 			"Position_POS": 0,
 			"Stalsort_SORT": "280T",
-			"Rubrikkod_RUBKD": "ROK"
+			"Rubrikkod_RUBKD": "ROK",
 			"ProduktnummerUt_PNRUT": "ANDBO1",
 			"Amnesdimension_EDIM": 4,
 			"AmnesviktiKilo_EVIKT": 50,
@@ -17,7 +17,7 @@
 		{
 			"Position_POS": 1,
 			"Stalsort_SORT": "280T",
-			"Rubrikkod_RUBKD": "ROK"
+			"Rubrikkod_RUBKD": "ROK",
 			"ProduktnummerUt_PNRUT": "ANDBO1",
 			"Amnesdimension_EDIM": 6,
 			"AmnesviktiKilo_EVIKT": 92,
@@ -32,7 +32,7 @@
 		{
 			"Position_POS": 2,
 			"Stalsort_SORT": "300T",
-			"Rubrikkod_RUBKD": "VKE"
+			"Rubrikkod_RUBKD": "VKE",
 			"ProduktnummerUt_PNRUT": "JONAR4",
 			"Amnesdimension_EDIM": 5,
 			"AmnesviktiKilo_EVIKT": 66,
