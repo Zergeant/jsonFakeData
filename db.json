@@ -43,6 +43,21 @@
 			"InnerdiameterRamattKallt_IDIARK": 73.33,
 			"MeterviktIKiloRamatt_KGMR": 8.4,
 			"ProfillValsVerketKallt_PROFLK": "COLD"
+		},
+		{
+			"Position_POS": 3,
+			"Stalsort_SORT": "300T",
+			"Rubrikkod_RUBKD": "V",
+			"ProduktnummerUt_PNRUT": "JONAR4",
+			"Amnesdimension_EDIM": 5,
+			"AmnesviktiKilo_EVIKT": 66,
+			"Ytterdiameterramatt_YDIAR": 139.14,
+			"Innerdiameterramatt_IDIAR": 78.3,
+			"MeterviktIKiloRamatt_KGMR": 6.99,
+			"YtterdiameterRamattKallt_YDIARK": 132.8,
+			"InnerdiameterRamattKallt_IDIARK": 73.33,
+			"MeterviktIKiloRamatt_KGMR": 8.4,
+			"ProfillValsVerketKallt_PROFLK": "COLD"
 		}
 	]
 }
